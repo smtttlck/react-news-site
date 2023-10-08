@@ -1,0 +1,17 @@
+.module {
+    height: 500px;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+}
+
+.big-box {
+    width: 500px;
+    height: 375px;
+    overflow: hidden;
+}
+.big-box img {    
+    width: 500px;
+    height: 300px;
+}

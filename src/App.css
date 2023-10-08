@@ -1,0 +1,30 @@
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #F8EDE3;
+}
+
+.nav-link, #footer a { color: #fff !important}
+.nav-link:hover, #footer a:hover { 
+  color: #77be77 !important;
+  font-weight: 700;
+}
+.widget a { color: #353a99 }
+.big-card a, .big-box a, .cards a { color: #000 }
+.navbar-brand { color: #abc4b3 !important}
+
+p { margin:0 }
+
+.bg-general { background-color: #F8EDE3 }
+.bg-white { background-color: #fff }
+.bg-green1 { background-color: #A2B29F }
+.bg-green2 { background-color: #798777 }
+.bg-green3 { background-color: #798777 }
+
+.text-white { color: #fff }
+.text-grey { color: #5A5A5A }
+
+.text-shadow { text-shadow: 2px 2px #000 }

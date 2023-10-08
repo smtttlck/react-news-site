@@ -1,0 +1,19 @@
+.big-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.big-card {
+    outline: 3px #798777 solid;
+    width: 550px;
+    overflow: hidden;
+    padding: 15px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+}
+.big-card img {
+    width: 500px;
+    height: 400px;
+}
